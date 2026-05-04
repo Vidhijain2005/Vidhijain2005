@@ -21,6 +21,11 @@ I build cool tech projects and create 3D visuals using Blender.
 
 ---
 
+##### 🎨 My 3D Work
+![Render](assets/render1.png)
+
+---
+
 ### 📫 Connect with me
 
 * LinkedIn: https://www.linkedin.com/in/vidhi-jain-a083862b7/
