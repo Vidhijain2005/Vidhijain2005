@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Vidhi 👋
 
-<!--
-**Vidhijain2005/Vidhijain2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | 🎨 3D Artist
 
-Here are some ideas to get you started:
+I build cool tech projects and create 3D visuals using Blender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Skills
+
+* 💻 Programming: Python, C++, JavaScript, HTML, CSS, OpenCV
+* 🎨 3D: Blender (Modeling, Lighting, Rendering)
+
+---
+
+### 🚀 Projects
+
+* Virtual Air Writing System
+* AI Interview System
+* 3D Product Renders
+
+---
+
+### 📫 Connect with me
+
+* LinkedIn: https://www.linkedin.com/in/vidhi-jain-a083862b7/
