@@ -22,7 +22,7 @@ I build cool tech projects and create 3D visuals using Blender.
 ---
 
 ##### 🎨 My 3D Work
-![Render](assets/render1.png)
+![Render](Assets/dolphin.png)
 
 ---
 
