@@ -28,6 +28,6 @@ I build cool tech projects and create 3D visuals using Blender.
 ---
 ### 🎨 My 3D Work
 <p align="center">
-  <img src="Assets/dolphin.png" width="300" height="300"/>
-<img src="Assets/mushroom_world.png" width="300" height="300"/>
+  <img src="Assets/dolphin.png" width="250"/>
+<img src="Assets/mushroom_world.png" width="250"/>
 </p>
