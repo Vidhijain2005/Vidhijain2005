@@ -29,4 +29,4 @@ I build cool tech projects and create 3D visuals using Blender.
 ### 🎨 My 3D Work
 <img src="Assets/dolphin.png" width="500"/>
 <img src="Assets/mushroom_world.png" width="500"/>
-
+<img src="Assets/animal_pack.png" width="500"/>
