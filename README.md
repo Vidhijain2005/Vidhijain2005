@@ -33,7 +33,8 @@ I build cool tech projects and create 3D visuals using Blender.
       <img src="Assets/bunny.png" width="350" alt="Bunny Model"/>
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/61482a3f-be35-4b8c-ab26-4a78697141da" width="350" autoplay loop muted playsinline></video>
+      <img src="Assets/mushroom_world.png" width="500"/>
     </td>
   </tr>
 </table>
+ <video src="https://github.com/user-attachments/assets/61482a3f-be35-4b8c-ab26-4a78697141da" width="350" autoplay loop muted playsinline></video>
