@@ -30,3 +30,4 @@ I build cool tech projects and create 3D visuals using Blender.
 <img src="Assets/bunny.png" width="500"/>
 <img src="Assets/mushroom_world.png" width="500"/>
 <video src="Assets/airpods.mp4" width="500" autoplay loop muted playsinline></video>
+https://github.com/user-attachments/assets/61482a3f-be35-4b8c-ab26-4a78697141da
