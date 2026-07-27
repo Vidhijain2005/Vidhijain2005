@@ -30,7 +30,7 @@ I build cool tech projects and create 3D visuals using Blender.
 <table>
   <tr>
     <td>
-      <img src="Assets/bunny.png" width="500"/>
+      <img src="Assets/bunny.png" width="600"/>
     </td>
     <td>
       <img src="Assets/mushroom_world.png" width="500"/>
