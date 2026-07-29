@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/3c56e64a-271f-417e-95cf-4d1836cd4fce
-
 ## Hi, I'm Vidhi 👋
 
 💻 Developer | 🎨 3D Artist
