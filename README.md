@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/3c56e64a-271f-417e-95cf-4d1836cd4fce
+
 ## Hi, I'm Vidhi 👋
 
 💻 Developer | 🎨 3D Artist
@@ -38,3 +42,4 @@ I build cool tech projects and create 3D visuals using Blender.
   </tr>
 </table>
  <video src="https://github.com/user-attachments/assets/61482a3f-be35-4b8c-ab26-4a78697141da" width="350" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/3c56e64a-271f-417e-95cf-4d1836cd4fce" width="350" autoplay loop muted playsinline></video>
