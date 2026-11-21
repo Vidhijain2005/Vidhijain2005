@@ -42,7 +42,7 @@ I build cool tech projects and create 3D visuals using Blender.
 <table>
   <tr>
     <td>
-      <img src="Assets/7.png" width="600"/>
+      <img src="Assets/7.jpeg" width="600"/>
     </td>
     <td>
       <img src="Assets/view2.png" width="600"/>
